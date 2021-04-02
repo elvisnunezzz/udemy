@@ -16,9 +16,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d665e66e-814d-46e8-95dd-38f1040e6d1a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ 10PythonProject/Basics.py" afterDir="false" />
-    </list>
+    <list default="true" id="d665e66e-814d-46e8-95dd-38f1040e6d1a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +105,7 @@
       <updated>1617323878768</updated>
       <workItem from="1617323902861" duration="13000" />
       <workItem from="1617324107802" duration="219000" />
-      <workItem from="1617326256604" duration="1462000" />
+      <workItem from="1617326256604" duration="1780000" />
     </task>
     <servers />
   </component>
@@ -138,6 +136,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="2670" y="440" key="Github.CreateGistDialog" timestamp="1617328831425">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2670" y="440" key="Github.CreateGistDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1617328831425" />
     <state width="1864" height="275" key="GridCell.Tab.0.bottom" timestamp="1617328660649">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
